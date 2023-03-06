@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Initial Setup"
+date:   2023-03-05 11:22:29 -0500
+categories: initial
+---
+Here, have a blank post.
